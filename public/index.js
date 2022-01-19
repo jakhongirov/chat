@@ -1,4 +1,4 @@
-const socket = io("http://localhost:7777");
+const socket = io("https://chating-1.herokuapp.com/");
 
 const form = document.querySelector('.form')
 const input = document.querySelector('.input')
